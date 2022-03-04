@@ -1,0 +1,25 @@
+{
+  "name": "widget-plaground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnold-dad-st/widget-plaground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnold-dad-st/widget-plaground/issues"
+  },
+  "homepage": "https://github.com/arnold-dad-st/widget-plaground#readme",
+  "devDependencies": {
+    "serve": "^13.0.2",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
