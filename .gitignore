@@ -106,3 +106,5 @@ dist
 #Idea
 .idea
 .vscode
+
+.DS_Store
